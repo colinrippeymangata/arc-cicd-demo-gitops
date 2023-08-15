@@ -12,3 +12,8 @@ kind: Namespace
 apiVersion: v1
 metadata:
   name: preprod
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: allan
